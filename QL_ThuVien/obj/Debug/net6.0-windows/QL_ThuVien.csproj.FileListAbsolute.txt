@@ -1,0 +1,89 @@
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.exe
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.AssemblyReference.cache
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.DangKy.resources
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.DangNhap.resources
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.GenerateResource.cache
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.AssemblyInfoInputs.cache
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.AssemblyInfo.cs
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.CoreCompileInputs.cache
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.CopyComplete
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\refint\QL_ThuVien.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.pdb
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.deps.json
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.runtimeconfig.json
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.dll
+C:\Stuff\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.pdb
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.genruntimeconfig.cache
+C:\Stuff\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\ref\QL_ThuVien.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.exe
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.deps.json
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.runtimeconfig.json
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.pdb
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.AssemblyReference.cache
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.DangKy.resources
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.DangNhap.resources
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.GenerateResource.cache
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.AssemblyInfoInputs.cache
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.AssemblyInfo.cs
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.CopyComplete
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\refint\QL_ThuVien.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.pdb
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.genruntimeconfig.cache
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\ref\QL_ThuVien.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.Admin.resources
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.Properties.Resources.resources
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.dll.config
+C:\Users\hi\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.NhanVien.resources
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.exe
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.dll.config
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.deps.json
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.runtimeconfig.json
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.pdb
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.Admin.resources
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.DangKy.resources
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.DangNhap.resources
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.NhanVien.resources
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\refint\QL_ThuVien.dll
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.pdb
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\ref\QL_ThuVien.dll
