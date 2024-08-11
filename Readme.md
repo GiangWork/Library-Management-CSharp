@@ -52,6 +52,6 @@ Winform, GunaUI
 ![ScreenShot](QL_ThuVien/ScreenShot/Screenshot%202024-08-11%20222426.png)
 - Thu phí
 ![ScreenShot](QL_ThuVien/ScreenShot/Screenshot%202024-08-11%20222438.png)
-
 - Đăng ký tài khoản đọc giả
+
 ![ScreenShot](QL_ThuVien/ScreenShot/Screenshot%202024-08-11%20222453.png)
