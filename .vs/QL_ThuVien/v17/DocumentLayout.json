@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyCode\\C#\\QL_ThuVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{902F649E-7F26-48BD-909E-61E035221F8C}|QL_ThuVien\\QL_ThuVien.csproj|D:\\MyCode\\C#\\QL_ThuVien\\ql_thuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{902F649E-7F26-48BD-909E-61E035221F8C}|QL_ThuVien\\QL_ThuVien.csproj|solutionrelative:ql_thuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F649E-7F26-48BD-909E-61E035221F8C}|QL_ThuVien\\QL_ThuVien.csproj|d:\\mycode\\c#\\ql_thuvien\\ql_thuvien\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F649E-7F26-48BD-909E-61E035221F8C}|QL_ThuVien\\QL_ThuVien.csproj|solutionrelative:ql_thuvien\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F649E-7F26-48BD-909E-61E035221F8C}|QL_ThuVien\\QL_ThuVien.csproj|d:\\mycode\\c#\\ql_thuvien\\ql_thuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F649E-7F26-48BD-909E-61E035221F8C}|QL_ThuVien\\QL_ThuVien.csproj|solutionrelative:ql_thuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QL_ThuVien\\NhanVien.cs",
+              "ToolTip": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\NhanVien.cs [Design]",
+              "RelativeToolTip": "QL_ThuVien\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:09:34.355Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\DangKy.cs",
+              "RelativeDocumentMoniker": "QL_ThuVien\\DangKy.cs",
+              "ToolTip": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\DangKy.cs",
+              "RelativeToolTip": "QL_ThuVien\\DangKy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:09:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QL_ThuVien\\NhanVien.cs",
+              "ToolTip": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\NhanVien.cs",
+              "RelativeToolTip": "QL_ThuVien\\NhanVien.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAIAwwMAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:09:34.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

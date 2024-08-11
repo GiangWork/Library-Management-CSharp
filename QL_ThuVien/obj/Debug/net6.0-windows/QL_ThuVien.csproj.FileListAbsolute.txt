@@ -87,3 +87,36 @@ C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-win
 C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.pdb
 C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Tài liệu\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\ref\QL_ThuVien.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.exe
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.dll.config
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.deps.json
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.runtimeconfig.json
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\QL_ThuVien.pdb
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\System.Management.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.AssemblyReference.cache
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.Admin.resources
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.DangKy.resources
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.DangNhap.resources
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.NhanVien.resources
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.Properties.Resources.resources
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.GenerateResource.cache
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.AssemblyInfoInputs.cache
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.AssemblyInfo.cs
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.CoreCompileInputs.cache
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.sourcelink.json
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.csproj.Up2Date
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\refint\QL_ThuVien.dll
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.pdb
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\QL_ThuVien.genruntimeconfig.cache
+D:\MyCode\C#\QL_ThuVien\QL_ThuVien\obj\Debug\net6.0-windows\ref\QL_ThuVien.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Tài liệu\\QL_ThuVien\\QL_ThuVien\\QL_ThuVien.csproj": {}
+    "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\QL_ThuVien.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Tài liệu\\QL_ThuVien\\QL_ThuVien\\QL_ThuVien.csproj": {
+    "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\QL_ThuVien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Tài liệu\\QL_ThuVien\\QL_ThuVien\\QL_ThuVien.csproj",
+        "projectUniqueName": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\QL_ThuVien.csproj",
         "projectName": "QL_ThuVien",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Tài liệu\\QL_ThuVien\\QL_ThuVien\\QL_ThuVien.csproj",
+        "projectPath": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\QL_ThuVien.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Tài liệu\\QL_ThuVien\\QL_ThuVien\\obj\\",
+        "outputPath": "D:\\MyCode\\C#\\QL_ThuVien\\QL_ThuVien\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
